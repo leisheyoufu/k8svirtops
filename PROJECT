@@ -1,0 +1,7 @@
+domain: loch.com
+repo: github.com/leisheyoufu/k8svirtops
+resources:
+- group: infra
+  kind: VirtualMachine
+  version: v1
+version: "2"

@@ -1,0 +1,8 @@
+apiVersion: infra.loch.com/v1
+kind: VirtualMachine
+metadata:
+  name: virtualmachine-sample
+spec:
+  # Add fields here
+  cpu: "1"
+  memory: "1G"
